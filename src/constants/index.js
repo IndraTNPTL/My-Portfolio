@@ -432,7 +432,7 @@ const projects = [
 		],
 		image: myportfolio,
 		source_code_link: "https://github.com/IndraTNPTL/My-Portfolio",
-		live_link: "https://wiggles-and-purrs.netlify.app/",
+		live_link: "https://indra-tinot-patole.netlify.app/",
 	},
 ];
 
