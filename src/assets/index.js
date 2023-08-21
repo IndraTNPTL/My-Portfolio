@@ -32,12 +32,10 @@ import liligo from "./company/liligo.webp";
 import bacardi from "./company/bacardi.png";
 import melty from "./company/melty.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
 import whackvdm from "./whackvdm.png";
 import uglyshop from "./uglyshop.png";
 import wiggles from "./wiggles.png";
+import myportfolio from "./myportfolio.png";
 import instagram3D from "./instagram3D.png";
 import linkedin3D from "./linkedin.png";
 import github3D from "./github3D.png";
@@ -76,12 +74,10 @@ export {
 	liligo,
 	bacardi,
 	melty,
-	carrent,
-	jobit,
-	tripguide,
 	whackvdm,
 	uglyshop,
 	wiggles,
+	myportfolio,
 	instagram3D,
 	linkedin3D,
 	github3D,

@@ -26,9 +26,7 @@ import {
 	whackvdm,
 	uglyshop,
 	wiggles,
-	carrent,
-	jobit,
-	tripguide,
+	myportfolio,
 	github,
 	wordpress,
 	webflow,
@@ -243,9 +241,9 @@ const experiences = [
 		iconBg: "#E6DEDD",
 		date: "Sept 2017 - Aug 2018",
 		points: [
-			"Management of the redesign of the site https://www.cocktailsetcie.com/",
-			"SEO Content writing and UX optimization of the website https://www.slowdrinking.com",
-			"Management of the content reorganization of the corporate site https://www.bacardilimited.com/fr/fr/",
+			"Management of the redesign of the site www.cocktailsetcie.com/",
+			"SEO Content writing and UX optimization of the website www.slowdrinking.com",
+			"Management of the content reorganization of the corporate site www.bacardilimited.com/fr/fr/",
 			"Ensure compliance with responsible consumption standards during Marketing and Press Relations events.",
 			"Production / Management of requests for visuals (photos, graphics, etc.).",
 			"Event logistics for External Affairs (Grand Prix du Rayonnement Français, Arthritis Gala, etc.).",
@@ -415,9 +413,9 @@ const projects = [
 		live_link: "https://wiggles-and-purrs.netlify.app/",
 	},
 	{
-		name: "My Portfolio",
+		name: "🚀 My Portfolio",
 		description:
-			"This is my second group project during Ironhack bootcamp 📲 This is a mobile application with user authentification, dedicated to facilitating the connection between caring individuals and adorable abandoned animals.",
+			"As a junior developer, I absolutely needed somewhere to display all the amazing projects I'm going to create with you! So here it is, my react Portfolio with tailwind CSS. It is my first time using tailwiind for a project and I kind of liked the experience! #newSkillUnblocked💪🏽",
 		tags: [
 			{
 				name: "react",
@@ -432,7 +430,7 @@ const projects = [
 				color: "blue-text-gradient",
 			},
 		],
-		image: wiggles,
+		image: myportfolio,
 		source_code_link: "https://github.com/IndraTNPTL/My-Portfolio",
 		live_link: "https://wiggles-and-purrs.netlify.app/",
 	},

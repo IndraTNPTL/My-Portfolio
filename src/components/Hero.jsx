@@ -33,7 +33,7 @@ const Hero = () => {
 					</p>
 					{/* Hero description */}
 					<p
-						className={`${styles.heroSubText} mt-2 pink-text-gradient`}
+						className={`${styles.heroSubText} mt-2 pink-text-gradient leading-[2.5]`}
 					>
 						Let's think, create, design & develop your projects!
 					</p>

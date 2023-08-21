@@ -19,7 +19,7 @@ const ProjectCard = ({
 	live_link,
 }) => {
 	return (
-		<motion.div variants={fadeIn("up", "spring", index * 0.5, 0.75)}>
+		<motion.div variants={fadeIn("up", "spring", 0.5 * index, 0.75)}>
 			<Tilt
 				options={{
 					max: 45,
@@ -66,7 +66,7 @@ const ProjectCard = ({
 
 				<div className="mt-5">
 					<h3 className="text-white font-bold text-[24px]">{name}</h3>
-					<p className="mt-2 text-secondary text-[14px] leading-[1.9]">
+					<p className="mt-2 ml-2 text-secondary text-[14px] leading-[1.9]">
 						{description}
 					</p>
 				</div>
