@@ -10,7 +10,7 @@ import { SectionWrapper } from "../hoc/";
 
 const ServiceCard = ({ index, title, icon, link }) => {
 	return (
-		<Tilt className="xs:w-[250px] w-full">
+		<Tilt className="xs:w-[12em] w-full">
 			<motion.div
 				variants={fadeIn("right", "spring", index * 0.5, 0.75)}
 				className="w-full pink-gradient p-[1px] rounded-[20px] shadow-card cursor-pointer"
@@ -22,14 +22,14 @@ const ServiceCard = ({ index, title, icon, link }) => {
 						scale: 1,
 						speed: 450,
 					}}
-					className="bg-tertiary rounded-[20px] py-5 px-12 min-h-[280px] flex justify-evenly items-center flex-col"
+					className="bg-tertiary rounded-[20px] py-5 px-10 min-h-[180px] flex justify-evenly items-center flex-col"
 				>
 					<img
 						src={icon}
 						alt={title}
-						className="w-20 h-20 object-contain"
+						className="w-14 h-14 object-contain"
 					/>
-					<h3 className="text-white text-[20px] font-bold text-center">
+					<h3 className="text-white text-[1em] font-[600] text-center">
 						{title}
 					</h3>
 				</div>

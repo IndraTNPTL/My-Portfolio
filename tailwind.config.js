@@ -20,7 +20,8 @@ module.exports = {
 				xs: "450px",
 			},
 			// backgroundImage: {
-			// 	"hero-pattern": "url('/src/assets/herobg.jpeg')",
+			// 	"hero-pattern":
+			// 		"url('/src/assets/vecteezy_colorful-abstract-background-design-vector_15285662.jpg')",
 			// },
 		},
 	},

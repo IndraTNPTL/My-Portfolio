@@ -249,38 +249,38 @@ const experiences = [
 			"Event logistics for External Affairs (Grand Prix du Rayonnement Français, Arthritis Gala, etc.).",
 		],
 	},
-	{
-		title: "Communication & Partnership officer",
-		company_name: "📰 meltygroup",
-		icon: melty,
-		iconBg: "#E6DEDD",
-		date: "Dec 2016 - March 2017",
-		points: [
-			"Negotiation and operational monitoring of online visibility exchanges in the field of entertainment.",
-			"Analysis of the results to evaluate performance and profitability of each partnership.",
-			"Management of special operations such as contests and movie campaigns.",
-			"Writing corporate communications.",
-			"Help in organization, logistics and execution of multiple projects (melty Future Awards ceremony, music sessions...).",
-			"Event logistics for External Affairs (Grand Prix du Rayonnement Français, Arthritis Gala, etc.).",
-			"Welcoming new employees",
-		],
-	},
-	{
-		title: "Deputy Editor",
-		company_name: "📰 meltygroup",
-		icon: melty,
-		iconBg: "#E6DEDD",
-		date: "Aug 2016 - Dec 2016",
-		points: [
-			"Site québécois (fr.melty.ca)",
-			"Researching latest news about the entertainment industry.",
-			"Following site and dossier statistics in order to orientate upcoming content.",
-			"Writing reviews and articles.",
-			"Formatting articles with SEO optimization and copyright attribution.",
-			"Managing the Facebook page to ensure articles to receive significant visibility.",
-			"Page animation with quizz, snack contents and game contests.",
-		],
-	},
+	// {
+	// 	title: "Communication & Partnership officer",
+	// 	company_name: "📰 meltygroup",
+	// 	icon: melty,
+	// 	iconBg: "#E6DEDD",
+	// 	date: "Dec 2016 - March 2017",
+	// 	points: [
+	// 		"Negotiation and operational monitoring of online visibility exchanges in the field of entertainment.",
+	// 		"Analysis of the results to evaluate performance and profitability of each partnership.",
+	// 		"Management of special operations such as contests and movie campaigns.",
+	// 		"Writing corporate communications.",
+	// 		"Help in organization, logistics and execution of multiple projects (melty Future Awards ceremony, music sessions...).",
+	// 		"Event logistics for External Affairs (Grand Prix du Rayonnement Français, Arthritis Gala, etc.).",
+	// 		"Welcoming new employees",
+	// 	],
+	// },
+	// {
+	// 	title: "Deputy Editor",
+	// 	company_name: "📰 meltygroup",
+	// 	icon: melty,
+	// 	iconBg: "#E6DEDD",
+	// 	date: "Aug 2016 - Dec 2016",
+	// 	points: [
+	// 		"Site québécois (fr.melty.ca)",
+	// 		"Researching latest news about the entertainment industry.",
+	// 		"Following site and dossier statistics in order to orientate upcoming content.",
+	// 		"Writing reviews and articles.",
+	// 		"Formatting articles with SEO optimization and copyright attribution.",
+	// 		"Managing the Facebook page to ensure articles to receive significant visibility.",
+	// 		"Page animation with quizz, snack contents and game contests.",
+	// 	],
+	// },
 ];
 
 const educations = [
@@ -415,7 +415,7 @@ const projects = [
 	{
 		name: "🚀 My Portfolio",
 		description:
-			"As a junior developer, I absolutely needed somewhere to display all the amazing projects I'm going to create with you! So here it is, my react Portfolio with tailwind CSS. It is my first time using tailwiind for a project and I kind of liked the experience! #newSkillUnblocked💪🏽",
+			"As a junior developer, I absolutely needed somewhere to display all the amazing projects I'm going to create with you! So here it is, my react Portfolio with tailwind CSS. It is my first time using tailwind for a project and I kind of liked the experience! #newSkillUnblocked💪🏽",
 		tags: [
 			{
 				name: "react",
