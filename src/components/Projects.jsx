@@ -41,24 +41,24 @@ const ProjectCard = ({
 							onClick={() =>
 								window.open(source_code_link, "_blank")
 							}
-							className="black-gradient w-10 h-10 rounded-full flex justify-center items-center cursor-pointer"
+							className="black-gradient w-12 h-12 rounded-full flex justify-center items-center cursor-pointer"
 						>
 							<img
 								src={github}
 								alt="github"
-								className="w-1/2 h-1/2 object-contain"
+								className="w-[70%] h-[70%] object-contain"
 							/>
 						</div>
 
 						{/* Live link */}
 						<div
 							onClick={() => window.open(live_link, "_blank")}
-							className="black-gradient ml-1.5 w-10 h-10 rounded-full flex justify-center items-center cursor-pointer"
+							className="black-gradient ml-1.5 w-12 h-12 rounded-full flex justify-center items-center cursor-pointer"
 						>
 							<img
 								src={link}
 								alt="live url"
-								className="w-1/2 h-1/2 object-contain"
+								className="w-[60%] h-[60%] object-contain"
 							/>
 						</div>
 					</div>
@@ -66,7 +66,7 @@ const ProjectCard = ({
 
 				<div className="mt-5">
 					<h3 className="text-white font-bold text-[24px]">{name}</h3>
-					<p className="mt-2 ml-2 text-secondary text-[14px] leading-[1.9]">
+					<p className="mt-2 ml-2 text-secondary text-[0.9em] leading-[1.9]">
 						{description}
 					</p>
 				</div>
@@ -102,7 +102,7 @@ const Projects = () => {
 				{/* Description */}
 				<motion.p
 					variants={fadeIn("", "", 0.1, 1)}
-					className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
+					className="mt-3 text-secondary text-[1.1em] max-w-3xl leading-[2]"
 				>
 					Following projects showcase my skills and experience through
 					real-world examples of my work. Each project is briefly
