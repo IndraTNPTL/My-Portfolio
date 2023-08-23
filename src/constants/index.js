@@ -358,7 +358,7 @@ const projects = [
 	{
 		name: "🛍 The Purrfect Ugly Shop",
 		description:
-			"Tis is my first group project during Ironhack bootcamp 💻 This web application built with React is a fake e-commerce platform where users can browse and purchase various products. Not yet mobile friendly",
+			"This is my first group project during Ironhack bootcamp 💻 This web application built with React is a fake e-commerce platform where users can browse and purchase various products. Not yet mobile friendly",
 		tags: [
 			{
 				name: "react",
@@ -411,7 +411,7 @@ const projects = [
 	{
 		name: "🚀 My Portfolio",
 		description:
-			"As a junior developer, I absolutely needed somewhere to display all the amazing projects I'm going to create with you! So here it is, my react Portfolio with tailwind CSS. It is my first time using tailwind for a project and I kind of liked the experience! #newSkillUnblocked💪🏽",
+			"As a junior developer, I absolutely needed somewhere to display all the amazing projects I'm going to create with you! So here it is, my react Portfolio with tailwind CSS. It is my first time using tailwind for a project and I kind of liked the experience! #newSkillUnlocked💪🏽",
 		tags: [
 			{
 				name: "react",
