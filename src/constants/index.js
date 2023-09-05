@@ -170,7 +170,7 @@ const technologies = [
 
 const experiences = [
 	{
-		title: "Business Analyst / Conversion Rate Optimization Consultant - Global & Strategic accounts",
+		title: "Professional Services / Conversion Rate Optimization - Global & Strategic accounts",
 		company_name: "👩🏽‍💻 AB Tasty",
 		icon: abtasty,
 		iconBg: "#E6DEDD",
