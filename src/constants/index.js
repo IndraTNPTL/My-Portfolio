@@ -336,7 +336,7 @@ const projects = [
 	{
 		name: "🪄 Whack Voldemort",
 		description:
-			"This is my first project for IronHack bootcamp 💻 Globally it is a Hufflepuff dedicated Wack-the-Mole game with Voldemort and Dobby! I wanted to make a fun and simple game around the Hufflepuff house universe. Let's be honest, it is the best house of Hogward!",
+			"This is my first project for IronHack bootcamp 💻 Globally it is a Hufflepuff dedicated Wack-the-Mole game with Voldemort and Dobby! I wanted to make a fun and simple game around the Hufflepuff house universe. Let's be honest, it is the best house of Hogwarts!",
 		tags: [
 			{
 				name: "javascript",
