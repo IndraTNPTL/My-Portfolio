@@ -32,6 +32,7 @@ import {
   linkedin3D,
   github3D,
   email3D,
+  reactNative,
 } from "../assets";
 
 export const navLinks = [
@@ -96,6 +97,11 @@ const technologies = [
     name: "React JS",
     icon: reactjs,
     link: "https://react.dev/",
+  },
+  {
+    name: "React Native",
+    icon: reactNative,
+    link: "https://reactnative.dev/",
   },
   {
     name: "Node JS",

@@ -11,6 +11,7 @@ import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
+import reactNative from "./tech/reactNative.png";
 import tailwind from "./tech/tailwind.png";
 import adobe from "./tech/adobe.png";
 import gganalytics from "./tech/gganalytics.png";
@@ -52,6 +53,7 @@ export {
   mongodb,
   nodejs,
   reactjs,
+  reactNative,
   tailwind,
   adobe,
   gganalytics,
