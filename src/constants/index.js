@@ -24,6 +24,7 @@ import {
   wiggles,
   myportfolio,
   netflixLookalike,
+  fastGoodCheap,
   github,
   wordpress,
   webflow,
@@ -456,6 +457,24 @@ const projects = [
     source_code_link:
       "https://github.com/IndraTNPTL/Netflix-Homepage-Lookalike",
     live_link: "https://netflix-by-indra.netlify.app/",
+  },
+  {
+    name: "🚀 Fast, Good, Cheap",
+    description:
+      "This exercise was made with React. It helped me practice useState hooks and is also really useful in order to choice our priorities in a project journey!",
+    tags: [
+      {
+        name: "react",
+        color: "pink-orange-text-gradient",
+      },
+      {
+        name: "css",
+        color: "violet-text-gradient",
+      },
+    ],
+    image: fastGoodCheap,
+    source_code_link: "https://github.com/IndraTNPTL/fast-good-cheap-projects",
+    live_link: "https://fast-good-cheap-projects.netlify.app/",
   },
 ];
 
