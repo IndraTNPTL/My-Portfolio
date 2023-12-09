@@ -500,8 +500,8 @@ const projects = [
       },
     ],
     image: marvelApp,
-    source_code_link: "https://github.com/IndraTNPTL/fast-good-cheap-projects",
-    live_link: "https://fast-good-cheap-projects.netlify.app/",
+    source_code_link: "https://github.com/IndraTNPTL/frontend-marvel",
+    live_link: "https://my-marvel-comics-app.netlify.app/",
   },
 ];
 
