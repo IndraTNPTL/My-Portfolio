@@ -25,6 +25,7 @@ import {
   myportfolio,
   netflixLookalike,
   fastGoodCheap,
+  marvelApp,
   github,
   wordpress,
   webflow,
@@ -473,6 +474,32 @@ const projects = [
       },
     ],
     image: fastGoodCheap,
+    source_code_link: "https://github.com/IndraTNPTL/fast-good-cheap-projects",
+    live_link: "https://fast-good-cheap-projects.netlify.app/",
+  },
+  {
+    name: "🦸🏽‍♀️ Marvel Comics App",
+    description:
+      "Find all you favorites Marvel Comics with its famous Heroes & Villains! Browse around the app and save you favorites for later! You added Thanos and would like to remove it? The Favorites page might have what you are looking for👀 This simple react app was made during Le Reacteur bootcamp, to help us understand how to use a simple API. To make it more fun, I have created a cute Comics-like UI. Enjoy! Responsive is in development..",
+    tags: [
+      {
+        name: "react",
+        color: "pink-orange-text-gradient",
+      },
+      {
+        name: "css",
+        color: "violet-text-gradient",
+      },
+      {
+        name: "node",
+        color: "sunrise-text-gradient",
+      },
+      {
+        name: "expressJS",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: marvelApp,
     source_code_link: "https://github.com/IndraTNPTL/fast-good-cheap-projects",
     live_link: "https://fast-good-cheap-projects.netlify.app/",
   },
