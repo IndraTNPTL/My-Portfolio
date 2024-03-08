@@ -26,6 +26,7 @@ import {
   netflixLookalike,
   fastGoodCheap,
   marvelApp,
+  spellcheck,
   github,
   wordpress,
   webflow,
@@ -419,7 +420,7 @@ const projects = [
     live_link: "https://wiggles-and-purrs.netlify.app/",
   },
   {
-    name: "🚀 My Portfolio",
+    name: "🦋 My Portfolio",
     description:
       "As a junior developer, I absolutely needed somewhere to display all the amazing projects I'm going to create with you! So here it is, my react Portfolio with tailwind CSS. It is my first time using tailwind for a project and I kind of liked the experience! #newSkillUnlocked💪🏽",
     tags: [
@@ -439,6 +440,32 @@ const projects = [
     image: myportfolio,
     source_code_link: "https://github.com/IndraTNPTL/My-Portfolio",
     live_link: "https://indra-tinot-patole.netlify.app/",
+  },
+  {
+    name: "🦸🏽‍♀️ Marvel Comics App",
+    description:
+      "Find all you favorites Marvel Comics with its famous Heroes & Villains! Browse around the app and save you favorites for later! You added Thanos and would like to remove it? The Favorites page might have what you are looking for👀 This simple react app was made during Le Reacteur bootcamp, to help us understand how to use a simple API. To make it more fun, I have created a cute Comics-like UI. Enjoy! Responsive is in development..",
+    tags: [
+      {
+        name: "react",
+        color: "pink-orange-text-gradient",
+      },
+      {
+        name: "css",
+        color: "violet-text-gradient",
+      },
+      {
+        name: "node",
+        color: "sunrise-text-gradient",
+      },
+      {
+        name: "expressJS",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: marvelApp,
+    source_code_link: "https://github.com/IndraTNPTL/frontend-marvel",
+    live_link: "https://my-marvel-comics-app.netlify.app/",
   },
   {
     name: "🎞 Netflix lookalike",
@@ -478,30 +505,22 @@ const projects = [
     live_link: "https://fast-good-cheap-projects.netlify.app/",
   },
   {
-    name: "🦸🏽‍♀️ Marvel Comics App",
+    name: "✅ Spellcheck Patronum",
     description:
-      "Find all you favorites Marvel Comics with its famous Heroes & Villains! Browse around the app and save you favorites for later! You added Thanos and would like to remove it? The Favorites page might have what you are looking for👀 This simple react app was made during Le Reacteur bootcamp, to help us understand how to use a simple API. To make it more fun, I have created a cute Comics-like UI. Enjoy! Responsive is in development..",
+      "A web application to help your writing clearer and mistake-free made with Python and Mistral via Ollama",
     tags: [
       {
-        name: "react",
-        color: "pink-orange-text-gradient",
+        name: "python",
+        color: "blue-green-text-gradient",
       },
       {
         name: "css",
         color: "violet-text-gradient",
       },
-      {
-        name: "node",
-        color: "sunrise-text-gradient",
-      },
-      {
-        name: "expressJS",
-        color: "orange-text-gradient",
-      },
     ],
-    image: marvelApp,
-    source_code_link: "https://github.com/IndraTNPTL/frontend-marvel",
-    live_link: "https://my-marvel-comics-app.netlify.app/",
+    image: spellcheck,
+    source_code_link: "https://github.com/IndraTNPTL/spellcheck-patronum",
+    live_link: "https://spellcheckpatronum.netlify.app/",
   },
 ];
 

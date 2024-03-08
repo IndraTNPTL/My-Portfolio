@@ -36,6 +36,7 @@ import myportfolio from "./myportfolio.png";
 import netflixLookalike from "./netflixLookalike.png";
 import fastGoodCheap from "./fastGoodCheap.png";
 import marvelApp from "./marvelApp.png";
+import spellcheck from "./spellcheck.png";
 
 import instagram3D from "./instagram3D.png";
 import linkedin3D from "./linkedin.png";
@@ -79,6 +80,7 @@ export {
   netflixLookalike,
   fastGoodCheap,
   marvelApp,
+  spellcheck,
   instagram3D,
   linkedin3D,
   github3D,
