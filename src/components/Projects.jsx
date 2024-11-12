@@ -4,7 +4,8 @@ import { motion } from "framer-motion";
 import { SectionWrapper } from "../hoc";
 
 import { styles } from "../styles";
-import { github, link } from "../assets";
+// import { github, link } from "../assets";
+import { github } from "../assets";
 import { projects } from "../constants";
 import { fadeIn, textVariant } from "../utils/motion";
 
@@ -16,7 +17,7 @@ const ProjectCard = ({
   tags,
   image,
   source_code_link,
-  live_link,
+  // live_link,
 }) => {
   return (
     <motion.div variants={fadeIn("up", "spring", 0.5 * index, 0.75)}>
@@ -49,7 +50,7 @@ const ProjectCard = ({
             </div>
 
             {/* Live link */}
-            <div
+            {/* <div
               onClick={() => window.open(live_link, "_blank")}
               className="black-gradient ml-1.5 w-12 h-12 rounded-full flex justify-center items-center cursor-pointer"
             >
@@ -58,7 +59,7 @@ const ProjectCard = ({
                 alt="live url"
                 className="w-[60%] h-[60%] object-contain"
               />
-            </div>
+            </div> */}
           </div>
         </div>
 
